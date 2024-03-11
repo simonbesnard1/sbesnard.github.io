@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-My name is Simon Besnard and I am a senior researcher at the [GFZ Helmholtz Centre Potsdam]([https://www.ku.dk/english/](https://www.gfz-potsdam.de/sektion/fernerkundung-und-geoinformatik/themen/global-land-monitoring).
-I received my PhD from[  Wageningen University & Research](https://www.wur.nl/en/wageningen-university.html) and the[  Max Planck Insitute for Biogeochemistry](https://www.bgc-jena.mpg.de/en), where I was working in the[  Laboratory of Geo-information Science and Remote Sensing](https://www.wur.nl/en/research-results/chair-groups/environmental-sciences/laboratory-of-geo-information-science-and-remote-sensing.htm) and the[  Model Data Integration (MDI) group](https://www.bgc-jena.mpg.de/en/bgi/mdi) under the supervision of[__Martin Herold](https://www.gfz-potsdam.de/en/staff/martin.herold/sec14) and[  Dr. Nuno Carvalhais](https://scholar.google.com/citations?user=7ZVPwSIAAAAJ&hl=en).
+My name is Simon Besnard and I am a senior researcher at the[__GFZ Helmholtz Centre Potsdam](https://www.gfz-potsdam.de/sektion/fernerkundung-und-geoinformatik/themen/global-land-monitoring).
+I received my PhD from[  Wageningen University & Research](https://www.wur.nl/en/wageningen-university.html) and the[  Max Planck Insitute for Biogeochemistry](https://www.bgc-jena.mpg.de/en), where I was working in the[  Laboratory of Geo-information Science and Remote Sensing](https://www.wur.nl/en/research-results/chair-groups/environmental-sciences/laboratory-of-geo-information-science-and-remote-sensing.htm) and the[  Model Data Integration (MDI) group](https://www.bgc-jena.mpg.de/en/bgi/mdi) under the supervision of[__Prof. Martin Herold](https://www.gfz-potsdam.de/en/staff/martin.herold/sec14) and[  Dr. Nuno Carvalhais](https://scholar.google.com/citations?user=7ZVPwSIAAAAJ&hl=en).
 
 [[Curriculum Vitae](../files/CV_Nico_Lang.pdf)] [[Headshot](../files/Nico_Lang.jpg)]
 
