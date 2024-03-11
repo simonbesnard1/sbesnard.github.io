@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Nico Lang"
 title_separator          : "-"
-name                     : &name "Nico Lang"
-description              : &description "Nico Lang's personal website"
+name                     : &name "Simon Besnard"
+description              : &description "Simon Besnard's personal website"
 url                      : https://langnico.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "langnico/langnico.github.io"
+repository               : "simonbesnard1/simonbesnard1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nico Lang"
+  name             : "Simon Besnard"
   avatar           : "nico_profile.jpg"
   bio              : "Postdoc at the University of Copenhagen / Pioneer Centre for AI. PhD from ETH Zurich."
-  location         : "Copenhagen, Denmark"
+  location         : "Potsdam, Germany"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.ch/citations?user=bVZtKsQAAAAJ&hl=en"
-  email            : "nila@di.ku.dk"
-  researchgate     :
+  googlescholar    : "https://scholar.google.com/citations?user=oYf8DgsAAAAJ&hl=en"
+  email            : "besnard@gfz-potsdam.de"
+  researchgate     : "https://www.researchgate.net/profile/Simon-Besnard"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "nico-lang-182311186"
-  orcid            : # "https://orcid.org/0000-0001-8434-027X"
+  linkedin         : "simon-besnard-0623b02b/"
+  orcid            : "https://orcid.org/0000-0002-1137-103X"
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "nicolangnl"
+  twitter          : "BesnardSimon"
   vine             :
   weibo            :
   xing             :
