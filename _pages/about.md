@@ -19,7 +19,7 @@ I aim to understand better the past, current, and future dynamics of terrestrial
 **Studies**\
 My journey kicked off with a BSc in Environmental Sciences from the University of Rennes 1 in France, where I first dipped my toes into the fascinating world of environmental studies. Eager to explore further, I ventured into the fields of Remote Sensing and Geo-Information Science for my first Master's degree at Wageningen University in The Netherlands. This experience was all about getting hands-on with the latest tech to understand our environment from a different perspective. I then took a bit of a detour to Montpellier SupAgro in France, where I pursued another Master's degree, this time focusing on International Land Management. It was an amazing opportunity to look at environmental issues from a global land management standpoint.
  
-**Projects**\
+**Projects**
 - [FORWARDS](https://forwards-project.eu/)
 - [OpenEarthMonitor](https://earthmonitor.org/)
 
