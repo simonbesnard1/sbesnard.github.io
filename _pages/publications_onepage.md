@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-More details on [Google Scholar](https://scholar.google.ch/citations?user=bVZtKsQAAAAJ&hl=en).
+More details on [Google Scholar](https://scholar.google.com/citations?user=oYf8DgsAAAAJ&hl=en).
 
 **A high-resolution canopy height model of the Earth**\
 Nico Lang, Walter Jetz, Konrad Schindler, Jan Dirk Wegner\
