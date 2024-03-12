@@ -12,7 +12,7 @@ Naixin Fan, Maurizio Santoro, Simon Besnard4, Oliver Cartus, Sujan Koirala, and 
 *Environmental Research Letters* (2023)\
 [article](https://iopscience.iop.org/article/10.1088/1748-9326/acfb22)
 
-**Global increase in biomass carbon stock dominated by growth of northern young forests over past decade**
+**Global increase in biomass carbon stock dominated by growth of northern young forests over past decade**\
 Hui Yang, Philippe Ciais, Frédéric Frappart, Xiaojun Li, Martin Brandt, Rasmus Fensholt, Lei Fan, Sassan Saatchi, Simon Besnard, Zhu Deng, Simon Bowring, and Jean-Pierre Wigneron\
 *Nature Geoscience* (2023)\
 [article](https://www.nature.com/articles/s41561-023-01274-4)
@@ -45,7 +45,7 @@ Simon Besnard, Sujan Koirala, Maurizio Santoro, Ulrich Weber, Jacob Nelson, Jona
 **Emulating Ecological Memory with Recurrent Neural Networks**\
 Basil Kraft, Simon Besnard, Sujan Koirala\
 *Wiley* (2021)\
-[article](https://doi.org/10.1002/9781119646181.ch18)
+[Book chapter](https://doi.org/10.1002/9781119646181.ch18)
 
 
 
