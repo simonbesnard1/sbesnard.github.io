@@ -47,6 +47,13 @@ Basil Kraft, Simon Besnard, Sujan Koirala\
 *Wiley* (2021)\
 [Book chapter](https://doi.org/10.1002/9781119646181.ch18)
 
+**Ecosystem transpiration and evaporation: Insights from three water flux partitioning methods across FLUXNET sites**\
+Jacob A. Nelson, Oscar Pérez-Priego, Sha Zhou, Rafael Poyatos, Yao Zhang, Peter D. Blanken, Teresa E. Gimeno, Georg Wohlfahrt, Ankur R. Desai, Beniamino Gioli, Jean-Marc Limousin, Damien Bonal, Eugénie Paul-Limoges, Russell L. Scott, Andrej Varlagin, Kathrin Fuchs, Leonardo Montagnani, Sebastian Wolf, Nicolas Delpierre, Daniel Berveiller, Mana Gharun, Luca Belelli Marchesini, Damiano Gianelle, Ladislav Šigut, Ivan Mammarella, Lukas Siebicke, T. Andrew Black, Alexander Knohl, Lukas Hörtnagl, Vincenzo Magliulo, Simon Besnard, Ulrich Weber, Nuno Carvalhais, Mirco Migliavacca, Markus Reichstein, and Martin Jung \
+*Global Change Biology* (2020)\
+[article](https://doi.org/10.1111/gcb.15314)
 
-
+**Scaling carbon fluxes from eddy covariance sites to globe: synthesis and evaluation of the FLUXCOM approach**\
+Martin Jung, Christopher Schwalm, Mirco Migliavacca, Sophia Walther, Gustau Camps-Valls, Sujan Koirala, Peter Anthoni, Simon Besnard, Paul Bodesheim, Nuno Carvalhais, Frédéric Chevallier, Fabian Gans, Daniel S. Goll, Vanessa Haverd, Philipp Köhler, Kazuhito Ichii, Atul K. Jain, Junzhi Liu, Danica Lombardozzi, Julia E. M. S. Nabel, Jacob A. Nelson, Michael O'Sullivan, Martijn Pallandt, Dario Papale, Wouter Peters, Julia Pongratz, Christian Rödenbeck, Stephen Sitch, Gianluca Tramontana, Anthony Walker, Ulrich Weber, and Markus Reichstein \
+*Biogeosciences* (2020)\
+[article](https://doi.org/10.5194/bg-17-1343-2020)
 
