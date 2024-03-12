@@ -45,7 +45,7 @@ Simon Besnard, Sujan Koirala, Maurizio Santoro, Ulrich Weber, Jacob Nelson, Jona
 **Emulating Ecological Memory with Recurrent Neural Networks**\
 Basil Kraft, Simon Besnard, Sujan Koirala\
 *Wiley* (2021)\
-[Book chapter](https://doi.org/10.1002/9781119646181.ch18)
+[Book chapter](https://doi.org/10.1002/9781119646181.ch18)|[code](https://github.com/DL4ES/DL4ES)
 
 **Ecosystem transpiration and evaporation: Insights from three water flux partitioning methods across FLUXNET sites**\
 Jacob A. Nelson, Oscar Pérez-Priego, Sha Zhou, Rafael Poyatos, Yao Zhang, Peter D. Blanken, Teresa E. Gimeno, Georg Wohlfahrt, Ankur R. Desai, Beniamino Gioli, Jean-Marc Limousin, Damien Bonal, Eugénie Paul-Limoges, Russell L. Scott, Andrej Varlagin, Kathrin Fuchs, Leonardo Montagnani, Sebastian Wolf, Nicolas Delpierre, Daniel Berveiller, Mana Gharun, Luca Belelli Marchesini, Damiano Gianelle, Ladislav Šigut, Ivan Mammarella, Lukas Siebicke, T. Andrew Black, Alexander Knohl, Lukas Hörtnagl, Vincenzo Magliulo, Simon Besnard, Ulrich Weber, Nuno Carvalhais, Mirco Migliavacca, Markus Reichstein, and Martin Jung \
