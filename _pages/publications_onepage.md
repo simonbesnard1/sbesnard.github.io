@@ -8,7 +8,7 @@ author_profile: true
 More details on [Google Scholar](https://scholar.google.com/citations?user=oYf8DgsAAAAJ&hl=en).
 
 **Implications of the steady-state assumption for the global vegetation carbon turnover**\
-Naixin Fan, Maurizio Santoro, Simon Besnard4, Oliver Cartus, Sujan Koirala, and Nuno Carvalhais\
+Naixin Fan, Maurizio Santoro, Simon Besnard, Oliver Cartus, Sujan Koirala, and Nuno Carvalhais\
 *Environmental Research Letters* (2023)\
 [article](https://iopscience.iop.org/article/10.1088/1748-9326/acfb22)
 
