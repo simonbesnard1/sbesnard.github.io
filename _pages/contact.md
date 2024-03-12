@@ -18,7 +18,9 @@ Germany
   
 ### Contact
 
+<pre>
 email (for academic matters): besnard@gfz-potsdam.de
 email (for non-academic matters): besnard.sim@gmail.com
 phone: +49 176 745 67 339
+</pre>
 
