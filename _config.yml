@@ -226,7 +226,8 @@ defaults:
       author_profile: true
       share: true
       comments: true
-   - scope:
+  # _projects    
+  - scope:
       path: ""
       type: projects
     values:
@@ -234,7 +235,8 @@ defaults:
       author_profile: true
       share: true
       comments: true
-   - scope:
+  # _data
+  - scope:
       path: ""
       type: data
     values:
