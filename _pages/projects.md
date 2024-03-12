@@ -1,12 +1,13 @@
 ---
 layout: single
+title: "Research activities"
 permalink: /projects/
 author_profile: true
 ---
 
 {% include base_path %}
 
-My current resarch activities include:
+My current research activities include:
 
 ## Global covariation of forest age distribution shifts with the net carbon balance
 ![Global covariation of forest age distribution shifts with the net carbon balance]({{ site.url }}{{ site.baseurl }}/images/fig3a.png){: .align-left width="50%"}

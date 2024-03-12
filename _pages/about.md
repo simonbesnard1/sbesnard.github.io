@@ -22,8 +22,4 @@ I began my academic career with a BSc in Environmental Sciences from the Univers
 - [FORWARDS](https://forwards-project.eu/)
 - [OpenEarthMonitor](https://earthmonitor.org/)
 
-News
-======
-{% include_relative news_recent.md %}
-
 
