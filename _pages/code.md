@@ -37,7 +37,7 @@ If using this code, please cite: **Emulating Ecological Memory with Recurrent Ne
 
 ## A Python package for model training and upscaling forest age product
 
-[ageUpscaling code](https://git.gfz-potsdam.de/global-land-monitoring/forest-age-upscale)
+[ageUpscaling code](https://git.gfz-potsdam.de/global-land-monitoring/forest-age-upscale) on GitLab. I will make it public soon!
 
 The ageUpscaling toolbox implements different Python modules to train machine learning models and perform the upscaling of pre-trained models.
 
@@ -49,7 +49,7 @@ The ageUpscaling toolbox implements different Python modules to train machine le
 
 ## gediwavedl: a Python package for processing and upscaling GEDI L1B waveforms
 
-[gediwavedl code](https://git.gfz-potsdam.de/global-land-monitoring/gedi-lidar-waveform)
+[gediwavedl code](https://git.gfz-potsdam.de/global-land-monitoring/gedi-lidar-waveform) on GitLab. I will make it public soon!
 
 The gediwavedl toolbox implements different Python modules to download and process GEDI products. It also allows users to acquire satellite imagery from the microsoft planetary for any GEDI shots.
 
