@@ -35,7 +35,7 @@ If using this code, please cite: **Emulating Ecological Memory with Recurrent Ne
 
 {::options parse_block_html="false" /}
 
-## A Python package for model training and upscaling forest age product
+## ageUpscaling: a Python package for model training and upscaling forest age product
 
 [ageUpscaling code](https://git.gfz-potsdam.de/global-land-monitoring/forest-age-upscale) on GitLab. I will make it public soon!
 
