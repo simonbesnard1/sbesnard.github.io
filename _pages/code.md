@@ -42,8 +42,10 @@ If using this code, please cite: **Emulating Ecological Memory with Recurrent Ne
 The ageUpscaling toolbox implements different Python modules to train machine learning models and perform the upscaling of pre-trained models.
 
 {::options parse_block_html="true" /}
+
 <details>
  It allows to generate global forest age map. It can be easily adapted to new datasets and new set of models can be plugged-in.
+</details>
 
 ## gediwavedl: a Python package for processing and upscaling GEDI L1B waveforms
 
