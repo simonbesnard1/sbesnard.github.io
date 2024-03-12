@@ -9,18 +9,16 @@ author_profile: true
 
 ### Address
 
-GFZ German Research Centre for Geosciences\
-Wissenschaftpark "Albert Einstein", Telegrafenberg\ 
-14473 Potsdam\
+GFZ German Research Centre for Geosciences  
+Wissenschaftpark "Albert Einstein", Telegrafenberg  
+14473 Potsdam  
 Germany
   
 [Get there](https://www.gfz-potsdam.de/en/contact)  
   
 ### Contact
 
-<pre>
 email (for academic matters): besnard@gfz-potsdam.de
 email (for non-academic matters): besnard.sim@gmail.com
 phone: +49 176 745 67 339
-</pre>
 
